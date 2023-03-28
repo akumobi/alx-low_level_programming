@@ -17,7 +17,7 @@ char *_strcpy(char *dest, char *src)
 	}
 	for ( ; buhari < blu ; buhari++)
 	{
-		dest[buhair] = src[buhari];
+		dest[buhari] = src[buhari];
 	}
 	dest[blu] = '\0';
 	return (dest);
